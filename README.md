@@ -1,12 +1,15 @@
-# Giới thiệu mkMate
+# Tài liệu hướng dẫn sử dụng nền tảng mkMate
 
-Nền tảng mkMate được tích lũy kinh nghiệm sau 10 triển khai từ hàng ngàn khách hàng có nhu cầu làm web đặc thù. Cùng với thời gian, công nghệ thay đổi theo hướng cải tiến mạnh mẽ khiến cách làm với SimpleCMS của [OSD.VN](https://osd.vn) không còn phù hợp.
+Địa chỉ chính thức của tài liệu: [huongdan.osd.vn/mkmate/](https://huongdan.osd.vn/mkmate/)
 
-mkMate tinh thần chung vẫn theo logic đơn giản và tinh gọn nhưng để tiết kiệm nguồn lực lập trình viên, vốn ngày một đắt đỏ, đồng thời làm giảm giá thành triển khai website phục vụ nhu cầu marketing.
+!> Bộ tài liệu này hướng dẫn toàn bộ các tính năng của nền tảng mkMate. Thực tế triển khai và quyền của thành viên tham gia hệ thống, bạn có thể KHÔNG nhìn thấy tính năng được hướng dẫn có trên website của bạn.
 
-Trong sản phẩm mkMate có 1 thay đổi lớn là tập trung toàn bộ tính năng vào 1 bộ sản phẩm duy nhất, tùy theo nhu cầu của từng site, OSD.VN team sẽ thực hiện bật/ tắt tính năng tương ứng để các webmaster không phải học quá nhiều tính năng của sản phẩm, tập trung vào tăng chất lượng nội dung thông tin.
+mkMate theo quan điểm đơn giản và tinh gọn với mục tiêu làm mạch lạc và dễ hiểu hơn những nhu cầu marketing cần có trên 1 website.
 
-Sản phẩm mkMate được phân thành 2 dịch vụ chính: mkMate **CMS** và mkMate **eCommerce**. Khác nhau chủ yếu của 2 dòng sản phẩm này là có tính năng bán hàng và thanh toán trực tuyến.
+Để xem cách sử dụng chi tiết mỗi tính năng, vui lòng chọn những mục tương ứng tại sidebar của tài liệu.
 
-OSD.VN mong nhận được góp ý cải tiến về sản phẩm.
-Email support(at)osd.vn
+OSD.VN luôn nỗ lực để cải thiện sản phẩm ngày 1 hoàn hiện hơn. Những đóng góp cải tiến về sản phẩm xin vui lòng email tới địa chỉ support(at)osd.vn.
+
+Cảm ơn quý khách hàng đã đồng hành cùng OSD.VN team!
+
+--- OSD.VN
