@@ -21,7 +21,10 @@
           depth      : 3,
           noData     : 'No results!',
           placeholder: 'Tìm kiếm...'
-      }
+      },
+      plugins: [
+        EditOnGithubPlugin.create('https://github.com/osdvn/mkmate/tree/main/docs', null, 'Sửa')
+      ]
     }
   </script>
   <script src="https://cdn.jsdelivr.net/npm/docsify@4/lib/docsify.min.js"></script>
@@ -33,5 +36,6 @@
     <script src="https://cdn.jsdelivr.net/npm/docsify@4/lib/plugins/search.js"></script>
     <script src="https://cdn.jsdelivr.net/npm/docsify@4/lib/plugins/zoom-image.min.js"></script>
     <script src="https://cdn.jsdelivr.net/npm/prismjs@1/components/prism-bash.min.js"></script>
+    <script src="//cdn.jsdelivr.net/npm/docsify-edit-on-github"></script>
 </body>
 </html>
