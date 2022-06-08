@@ -19,11 +19,27 @@
       loadSidebar: 'docs/_sidebar.md',
       search: {
           depth      : 3,
-          noData     : 'No results!',
+          noData     : 'Không tìm thấy gì!',
           placeholder: 'Tìm kiếm...'
       },
+      formatUpdated: '{DD}/{MM}/{YYYY} {HH}:{mm}',
       plugins: [
-        EditOnGithubPlugin.create('https://github.com/osdvn/mkmate/tree/main/docs', null, 'Sửa')
+        function(hook, vm) {
+          hook.beforeEach(function(html) {
+            var url =
+              'https://github.com/osdvn/mkmate/tree/main/docs/' +
+              vm.route.file;
+            var editHtml = '[📝 Sửa](' + url + ')\n';
+
+            return (
+              editHtml +
+              html +
+              '\n----\n' +
+              'Cập nhật {docsify-updated}' +
+              editHtml
+            );
+          });
+        }
       ]
     }
   </script>
