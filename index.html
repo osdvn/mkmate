@@ -27,7 +27,7 @@
         function(hook, vm) {
           hook.beforeEach(function(html) {
             var url = 'https://github.com/osdvn/mkmate/tree/main/docs/' +vm.route.file,
-                editHtml = ' [📝 Sửa](' + url + ')\n';
+                editHtml = '\n-----\n[📝 Sửa](' + url + ')\n';
             return (
               html +
               editHtml +
