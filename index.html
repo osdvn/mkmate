@@ -22,20 +22,16 @@
           noData     : 'Không tìm thấy gì!',
           placeholder: 'Tìm kiếm...'
       },
-      lastModified: {
-            repo: 'osdvn/mkmate',
-      },
+      repo: 'osdvn/mkmate',
       plugins: [
         function(hook, vm) {
           hook.beforeEach(function(html) {
-            var url =
-              'https://github.com/osdvn/mkmate/tree/main/docs/' +
-              vm.route.file;
-            var editHtml = ' [📝 Sửa](' + url + ')\n';
-
+            var url = 'https://github.com/'+ repo +'/tree/main/docs/' +vm.route.file,
+                editHtml = ' [📝 Sửa](' + url + ')\n';
             return (
               html +
-              editHtml
+              editHtml +
+              '<span id="last-modified"></span>'
             );
           });
         }
@@ -88,7 +84,7 @@
               } else {
                   document.getElementById('last-modified').textContent = CONFIG.preString + time;
               }
-              return (html + '\n----\n' + '<div align= ' + CONFIG.align + '><span id="last-modified"></span></div>');
+              return (html + '\n----\n' + '<div align= ' + CONFIG.align + '></div>');
           });
       };
 
