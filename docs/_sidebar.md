@@ -1,5 +1,10 @@
-
-* [Trang chủ](/)
 * [Tính năng chung](#)
 ** [Trình soạn thảo](common/finder.md)
 ** [Quản lý file](common/finder.md)
+* [Quản lý nội dung(#)
+** Tin bài(content/news.md)
+** Dịch vụ(content/service.md)
+** Thư viện ảnh(content/gallery.md)
+**  Longform(content/longform.md)
+** Trang thông tin(content/information.md)
+* Mô-đun (modules/content.md)
