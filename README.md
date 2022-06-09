@@ -12,6 +12,8 @@
 5. - [ ] Content template cho trình soạn thảo
 6. - [ ] Chèn bài liên quan tự động theo phân đoạn nội dung
 7. - [ ] AMP cơ bản
+8. - [ ] Admin notify
+9. - [ ] ...
 
 ## Q3-2022
 1. - [ ] Form builder
