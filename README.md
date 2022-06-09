@@ -1,5 +1,5 @@
 # Changelog
-## V6.0
+## Đóng gói V6.0
 - Triển khai tập trung SAAS
 - Nâng cấp toàn bộ
 
