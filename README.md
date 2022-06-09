@@ -10,7 +10,7 @@
 3. - [ ] Cookie-less domain
 4. - [ ] Hoàn thành dịch tiếng Anh
 5. - [ ] Content template cho trình soạn thảo
-6. - [ ] Chèn bài liên quan tự động thoe phân đoạn nội dung
+6. - [ ] Chèn bài liên quan tự động theo phân đoạn nội dung
 
 ## Q3-2022
 1. - [ ] Form builder
@@ -19,3 +19,5 @@
 4. - [ ] Dynamic build theme by each site
 5. - [ ] Task queue for sending email
 6. - [ ] Task queue for optimize image
+7. - [ ] CTA builder
+8. - [ ] Popup builder
