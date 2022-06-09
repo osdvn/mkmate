@@ -16,7 +16,7 @@
 ## Q3-2022
 1. - [ ] Form builder
 2. - [ ] Layout manager
-3. - [ ] self portal to manage issue & ticket
+3. - [ ] Customer portal, self service to manage issue & ticket. Public ticket
 4. - [ ] Dynamic build theme by each site
 5. - [ ] Task queue for sending email
 6. - [ ] Task queue for optimize image
