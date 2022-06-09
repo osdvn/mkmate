@@ -7,7 +7,7 @@
 ** [Thư viện ảnh](content/gallery.md)
 ** [Longform](content/longform.md)
 ** [Trang thông tin](content/information.md)
-** Mô-đun(#)
+* [Mô-đun](#)
 ** [Banner](modules/banner.md)
 ** [Lead](modules/lead.md)
 ** [Nội dung](modules/content.md)
