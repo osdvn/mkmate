@@ -1,7 +1,7 @@
 # Changelog
 ## Đóng gói V6.0
 - Triển khai tập trung SAAS
-- Nâng cấp toàn bộ
+- Nâng cấp toàn bộ dự án đã triển khai
 
 # Plan
 ## Q2-2022
