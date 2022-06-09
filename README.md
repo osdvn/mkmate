@@ -1,5 +1,5 @@
 # Changelog
-## Đóng gói V6.0
+## 20-03-222 Đóng gói V6.0
 - Triển khai tập trung SAAS
 - Nâng cấp toàn bộ dự án đã triển khai
 
