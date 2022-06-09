@@ -22,3 +22,5 @@
 6. - [ ] Task queue for optimize image
 7. - [ ] CTA builder
 8. - [ ] Popup builder
+9. - [ ] Spam email
+10. - [ ] Search and replace email
