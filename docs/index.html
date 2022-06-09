@@ -1,0 +1,51 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
+  <meta name="viewport" content="width=device-width,initial-scale=1">
+  <meta charset="UTF-8">
+  <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/docsify-themeable@0/dist/css/theme-simple.css">
+  <title>Tài liệu sử dụng Mkmate</title>
+</head>
+<body>
+  <div id="app"></div>
+  <script>
+    window.$docsify = {
+      name       : 'Mkmate Docs',
+      themeable: {
+          readyTransition : true, // default
+          responsiveTables: true  // default
+      },
+      homepage: 'README.md',
+      loadSidebar: '_sidebar.md',
+      search: {
+          depth      : 3,
+          noData     : 'Không tìm thấy gì!',
+          placeholder: 'Tìm kiếm...'
+      },
+      plugins: [
+        function(hook, vm) {
+          hook.beforeEach(function(html) {
+            var url = 'https://github.com/osdvn/mkmate/tree/main/docs/' +vm.route.file,
+                editHtml = '\n-----\n[📝 Sửa](' + url + ')\n';
+            return (
+              html +
+              editHtml +
+              '<span id="last-modified"></span>'
+            );
+          });
+        }
+      ]
+    }
+  </script>
+  <script src="https://cdn.jsdelivr.net/npm/docsify@4/lib/docsify.min.js"></script>
+  <script src="https://cdn.jsdelivr.net/npm/docsify-themeable@0/dist/js/docsify-themeable.min.js"></script>
+  <script src="https://cdn.jsdelivr.net/npm/docsify-tabs@1/dist/docsify-tabs.min.js"></script>
+  <script src="https://cdn.jsdelivr.net/npm/docsify-copy-code@2/dist/docsify-copy-code.min.js"></script>
+  <script src="https://cdn.jsdelivr.net/npm/docsify-pagination@2/dist/docsify-pagination.min.js"></script>
+  <script src="https://cdn.jsdelivr.net/npm/docsify@4/lib/plugins/external-script.min.js"></script>
+  <script src="https://cdn.jsdelivr.net/npm/docsify@4/lib/plugins/search.js"></script>
+  <script src="https://cdn.jsdelivr.net/npm/docsify@4/lib/plugins/zoom-image.min.js"></script>
+  <script src="https://cdn.jsdelivr.net/npm/prismjs@1/components/prism-bash.min.js"></script>
+</body>
+</html>
