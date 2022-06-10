@@ -1,7 +1,8 @@
 # Quản lý chuyên mục tin và quản lý tin bài
-**Chuyên mục tin cho phép tạo nhiều nhóm những nhóm chuyên mục tin cùng loại với nhau tùy theo mục đích.
-Tin bài: cho phép thêm tin bài vào các nhóm chuyên mục tin đã tạo
-Một nhóm chuyên mục tin có liên kết mật thiết chặt chẽ với các bài tin cùng loại.**
+**- Chuyên mục tin cho phép tạo nhiều nhóm những nhóm chuyên mục tin cùng loại với nhau tùy theo mục đích.
+- Tin bài: cho phép thêm tin bài vào các nhóm chuyên mục tin đã tạo
+- Một nhóm chuyên mục tin có liên kết mật thiết chặt chẽ với các bài tin cùng loại
+.**
 
 ## Quản lý chuyên mục tin
 ### Thêm chuyên mục tin
