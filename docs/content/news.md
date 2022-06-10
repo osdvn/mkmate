@@ -65,8 +65,7 @@ Nhấp chọn trực tiếp vào nhóm chuyên mục cần sửa hoặc nhấn v
 
 Trong màn hình quản trị danh sách danh mục nhóm chuyên mục, tích vào danh mục muốn xóa bỏ chọn **Xóa**
 
-Hệ thống xác nhận bạn có chắc chắn muốn xóa không với nội dung như sau **Xóa bỏ là hành động sẽ không phục hồi lại được dữ liệu!** 
-**Bạn có chắc chắn muốn thực hiện việc này?** Bạn chọn **OK**
+Hệ thống xác nhận bạn có chắc chắn muốn xóa không với nội dung như sau **Xóa bỏ là hành động sẽ không phục hồi lại được dữ liệu! Bạn có chắc chắn muốn thực hiện việc này?** Bạn chọn **OK**
 
 ## Quản lý tin bài
 ### Thêm bài tin mới
@@ -92,12 +91,12 @@ Bạn có thể tham khảo thêm bài viết [kỹ thuật (hướng dẫn) vi�
 
 Câu hỏi thường gặp là các câu hỏi và trả lời thường theo cùng một chủ đề nhất định. Tập hợp những câu hỏi phổ biến thường có xu hướng được hỏi đi hỏi lại, giúp người đọc hiểu rõ hơn về dịch vụ của bạn.
 
-**Tiêu đề**
+-**Tiêu đề**
 - Dựa vào mục đích của dịch vụ để đặt câu hỏi, bạn có thể sử dụng các cách thức sau:
 - Hỏi thẳng vào vấn đề Những câu hỏi này chủ yếu áp dụng trong những trường hợp bạn cần câu trả lời dứt khoát hoặc cần khẳng định lại câu trả lời.
 - Đưa những câu hỏi mở thăm dò Những câu hỏi này nhằm thăm dò ý kiến, khiến cho người được hỏi có thể đưa ra thêm các thông tin giải đáp những điều người đọc thường thắc mắc.
 
-**Nội dung**
+-**Nội dung**
 - Câu trả lời cần ngắn gọn, bám sát vào câu hỏi của chủ đề.
 
 **Hình ảnh** Nhấp chọn ảnh để lựa chọn tập tin hình ảnh tin bài và tải lên
@@ -127,23 +126,21 @@ Chỉnh sửa SEO để tối ưu trên các công cụ tìm kiếm bao gồm Me
 Sau khi hoàn tất các thao tác để thêm mới tin bài, đừng quên ấn nút **Lưu** nhé.
 
 ### Sửa một tin bài
-![]({{site.baseurl}}/../media/data/news/2022/hdsd-pisale/dr-tinbai.jpg)
-Nhấp chọn nút 3 chấm cuối bài tin, nhấn chọn Sửa ở tin bài đó hoặc nhấn chọn trực tiếp tại bài tin muốn sửa, sau khi thay đổi các thông tin - thiết lập của bài viết cần chọn Lưu để hoàn tất.
 
-Xóa một tin bài
+Nhấp chọn nút 3 chấm cuối bài tin, nhấn chọn Sửa ở tin bài đó hoặc nhấn chọn trực tiếp tại bài tin muốn sửa, sau khi thay đổi các thông tin - thiết lập của bài viết cần chọn **Lưu** để hoàn tất.
 
-Cách 1 Xóa bài tin tại menu thả danh sách xuống bên trái
+### Xóa một tin bài
 
-Nhấn tích vào tin bài đó và chọn Xóa.
+**Cách 1** Xóa bài tin tại menu thả danh sách xuống bên trái
 
-Hệ thống xác nhận bạn có chắc chắn muốn xóa không với nội dung như sau Xóa bỏ là hành động sẽ không phục hồi lại được dữ liệu! Bạn có chắc chắn muốn thực hiện việc này?. Bạn chọn OK
+Nhấn tích vào tin bài đó và chọn **Xóa**.
 
-
+Hệ thống xác nhận bạn có chắc chắn muốn xóa không với nội dung như sau **Xóa bỏ là hành động sẽ không phục hồi lại được dữ liệu! Bạn có chắc chắn muốn thực hiện việc này?**. Bạn chọn **OK**
 
 
-Cách 2: Xóa tại bài tin chi tiết
+**Cách 2**: Xóa tại bài tin chi tiết
 
-Truy cập vào bài tin chi tiết, tại góc phải màn hình bạn nhấn chọn tab Xóa bài. Hệ thống xác nhận bạn có chắc chắn muốn xóa không với nội dung như sau Xóa bỏ là hành động sẽ không phục hồi lại được dữ liệu! Bạn có chắc chắn muốn thực hiện việc này?. Bạn chọn OK
+Truy cập vào bài tin chi tiết, tại góc phải màn hình bạn nhấn chọn tab **Xóa bài**. Hệ thống xác nhận bạn có chắc chắn muốn xóa không với nội dung như sau **Xóa bỏ là hành động sẽ không phục hồi lại được dữ liệu! Bạn có chắc chắn muốn thực hiện việc này?**. Bạn chọn **OK**
 
-Chú ý: cần nhập nội dung tiếng Anh và nội dung tiếng Việt (nếu có)
+_Chú ý: cần nhập nội dung tiếng Anh và nội dung tiếng Việt (nếu có)_
 
