@@ -1,4 +1,4 @@
-Trình soạn thảo
+# Trình soạn thảo
 
 Trình soạn thảo TinyMCE 5 với nhiều tích hợp sâu giúp bạn soạn thảo trực tiếp trên website nhanh chóng và hiệu quả hơn.
 
