@@ -1,29 +1,29 @@
 # Quản lý mô đun trình bày dịch vụ
 
-Cho phép cấu hình mô đun trình bày nhóm sản phẩm tại nhiều bố cục và vị trí khác nhau trên website.
+Cho phép cấu hình mô đun trình bày nhóm dịch vụ tại nhiều bố cục và vị trí khác nhau trên website.
 
-**Cấu hình sản phẩm hiển thị theo danh mục**
+**Cấu hình dịch vụ hiển thị theo danh mục**
 
 Hình minh họa hiển thị như sau:
 
-Để cấu hình mô đun trình bày sản phẩm, bạn cần:
+Để cấu hình mô đun trình bày dịch vụ, bạn cần:
 
-**Bước 1** Tại màn hình quản trị, bạn chọn mục **Giao diện -> Mô đun -> Trình bày sản phẩm**
+**Bước 1** Tại màn hình quản trị, bạn chọn mục **Giao diện -> Mô đun -> Trình bày dịch vụ**
 
 **Bước 2** Nhấp chuột vào nút **Cấu hình**
 
 
-**Bước 3** Trang tạo cấu hình mô đun trình bày sản phẩm được mở ra, điền và cấu hình các thông tin chi tiết của danh mục đó.
+**Bước 3** Trang tạo cấu hình mô đun trình bày dịch vụ được mở ra, điền và cấu hình các thông tin chi tiết của danh mục đó.
 
 1. **Tiêu đề**
 
 Nhập tiêu đề cho danh mục muốn hiển thị
 
-2. **Nhóm sản phẩm**
+2. **Nhóm dịch vụ**
 
-Lựa chọn danh mục nhóm sản phẩm có sẵn trong box
+Lựa chọn danh mục nhóm dịch vụ có sẵn trong box
 
-3. **Số sản phẩm**
+3. **Số dịch vụ**
 
 Nhập giới hạn số bài cho phép hiển thị tại mô đun này
 
@@ -49,7 +49,7 @@ Lựa chọn trạng thái hiển thị mô đun (Bật: cho phép hiển thị/
 
 9. **Sắp xếp theo**
 
-Lựa chọn sắp xếp theo danh sách có sẵn được hiển thị trong box (tên sản phẩm, giá, thứ tự, ngày đăng hoặc bán chạy cho danh mục)
+Lựa chọn sắp xếp theo danh sách có sẵn được hiển thị trong box (tên dịch vụ, giá, thứ tự, ngày đăng hoặc bán chạy cho danh mục)
 
 Lựa chọn sắp xếp theo kiểu giảm dần hoặc tăng dần cho danh mục
 
