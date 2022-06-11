@@ -14,35 +14,55 @@ Tính năng này hữu dụng khi bạn muốn điều khiển hiển thị theo
 
 Cách thực hiện đơn giản là chọn đoạn văn bản (bôi đen) hoặc đặt con trỏ vào vị trí cần định dạng. Tiếp đến, bạn chọn 1 định dạng cụ thể (Paragraph = đoạn văn, heading (đề mục) từ 1 đến 6, Code = mã nguồn) từ danh sách thả xuống. Xin vui lòng xem hình minh họa bên dưới.
 
+![heading]({{site.baseurl}}/../media/data/news/2022/hdsd-pisale/heading.jpg)
+
 Xem thêm tư vấn của OSD.VN về cách định dạng bài viết chuẩn SEO.(WIP)
 
 ### (2) Định dạng kiểu chữ đậm
 
 Phím tắt: **Ctrl + B (Comand + B trên MacOS X)**, áp dụng cho đoạn văn bản được chọn hoặc khi đang soạn thảo thì sẽ là đánh dấu kiểu định dạng chữ đậm.
 
+![chu-dam]({{site.baseurl}}/../media/data/news/2022/hdsd-pisale/chu-dam.jpg)
+
 _Kết quả_
+
+![kq-chu-dam]({{site.baseurl}}/../media/data/news/2022/hdsd-pisale/kq-chu-dam.jpg)
 
 ### (3) Định dạng kiểu chữ in nghiêng
 
 Phím tắt: **Ctrl + I (Comand + I trên MacOS X)**, áp dụng cho đoạn văn bản được chọn hoặc khi đang soạn thảo thì sẽ là đánh dấu kiểu định dạng chữ in nghiêng.
 
+![chu-nghieng]({{site.baseurl}}/../media/data/news/2022/hdsd-pisale/chu-nghieng.jpg)
+
 _Kết quả_
+
+![kq-chu-nghieng]({{site.baseurl}}/../media/data/news/2022/hdsd-pisale/kq-chu-nghieng.jpg)
 
 ### (4) Định dạng kiểu chữ gạch chân
 
 Phím tắt: **Ctrl + U (Comand + U trên MacOS X)**, áp dụng cho đoạn văn bản được chọn hoặc khi đang soạn thảo thì sẽ là trình bày văn bản với kiểu định dạng chữ được gạch chân.
 
+![chu-gach-chan]({{site.baseurl}}/../media/data/news/2022/hdsd-pisale/chu-gach-chan.jpg)
+
 _Kết quả_
+
+![kq-chu-gach-chan]({{site.baseurl}}/../media/data/news/2022/hdsd-pisale/kq-chu-gach-chan.jpg)
 
 ### (5) Định dạng chữ gạch ngang
 
 Trình bày đoạn văn bản dạng gạch ngang, bạn cũng có thể sử dụng tổ hợp phím Ctrl + S hoặc Command + S trên MacOS X.
 
+![chu-gach-ngang]({{site.baseurl}}/../media/data/news/2022/hdsd-pisale/chu-gach-ngang.jpg)
+
 _Kết quả_
+
+![kq-chu-gach-ngang]({{site.baseurl}}/../media/data/news/2022/hdsd-pisale/kq-chu-gach-ngang.jpg)
 
 ### (7) Thay đổi màu chữ
 
 Bạn cần chọn đoạn văn bản cần thay đổi màu chữ, sau đó bấm vào nút số (7) => Thực hiện chọn màu mong muốn từ bảng màu hiển thị ra.
+
+![thay-doi-mau-chu]({{site.baseurl}}/../media/data/news/2022/hdsd-pisale/thay-doi-mau-chu.jpg)
 
 Để xóa màu chữ của văn bản, bạn cần bôi đen đoạn văn bản cần xóa màu và chọn nút **Remove Color**.
 
@@ -50,10 +70,13 @@ Bạn cần chọn đoạn văn bản cần thay đổi màu chữ, sau đó b�
 
 Tương tự chức năng số (7) được nêu trên, chức năng này cho phép định dạng màu nền của chữ.
 
+![thay-doi-mau-nen]({{site.baseurl}}/../media/data/news/2022/hdsd-pisale/thay-doi-mau-nen.jpg)
 
 ### (9) Thay đổi cỡ chữ
 
 Hệ thống chỉ cho phép bạn thay 14 kích cỡ tương ứng từ nhỏ đến lớn theo danh sách tương ứng như sau:
+
+![thay-doi-co-chu]({{site.baseurl}}/../media/data/news/2022/hdsd-pisale/thay-doi-co-chu.jpg)
 
 1. 8pt
 2. 9pt
@@ -76,6 +99,7 @@ Hệ thống chỉ cho phép bạn thay 14 kích cỡ tương ứng từ nhỏ �
 
 Tính năng lựa chọn kí tự, kí hiệu đặc biệt. Hệ thống chỉ cho phép bạn lựa chọn 7 tùy chọn tương ứng kí tự, kí hiệu theo danh sách tương ứng như sau:
 
+![Special_character]({{site.baseurl}}/../media/data/news/2022/hdsd-pisale/Special_character.jpg)
 
 1. **Currency** Tiền tệ
 2. **Text** Chữ
@@ -89,6 +113,8 @@ Tính năng lựa chọn kí tự, kí hiệu đặc biệt. Hệ thống chỉ 
 
 Tính năng lựa chọn biểu tượng cảm xúc. Hệ thống chỉ cho phép bạn lựa chọn 8 tùy chọn tương ứng biểu tượng cảm xúc theo danh 
 sách tương ứng như sau:
+
+![emotions]({{site.baseurl}}/../media/data/news/2022/hdsd-pisale/emotions.jpg)
 
 1. **Symbols** Ký hiệu
 2. **People** Mọi người
@@ -107,6 +133,8 @@ Tính năng xem mã nguồn của trang web. Để xem chế độ Source code b
 
 Trước hết cần chọn đoạn văn bản cần định dạng hoặc có thể đặt con trỏ tại vị trí cần điều khiển căn lề để chọn 1 trong những cách căn lề: căn giữa, căn trái, căn phải, căn lề 2 bên.
 
+![can-le]({{site.baseurl}}/../media/data/news/2022/hdsd-pisale/can-le.jpg)
+
 Bạn cũng có thể dùng tổ hợp phím tắt để căn lề cho nội dung bài viết tương tự như MS Words, Google Docs,... cụ thể là:
 
 1. **Ctrl + J** (hoặc **Command + J** trên MacOS X): căn lề 2 bên
@@ -118,27 +146,41 @@ Bạn cũng có thể dùng tổ hợp phím tắt để căn lề cho nội dun
 
 **Number list** (danh sách đánh số thứ tự) giúp thể hiện các mục rõ ràng và cụ thể hơn. Thao tác đơn giản là bôi đen nhiều dòng và click chuột vào nút số (14).
 
+![dinh-dang-ds-danh-so-1]({{site.baseurl}}/../media/data/news/2022/hdsd-pisale/dinh-dang-ds-danh-so-1.jpg)
+
 _Kết quả_
+
+![dinh-dang-ds-danh-so-2]({{site.baseurl}}/../media/data/news/2022/hdsd-pisale/dinh-dang-ds-danh-so-2.jpg)
 
 ### (15) Định dạng danh sách không theo thứ tự
 
 **Unordered list** (danh sách không theo thứ tự) giúp văn bản sạch và dễ nhìn và bớt đơn điệu. Thao tác đơn giản là bôi đen nhiều dòng và click chuột vào nút số (15).
 
+![dinh-dang-ds-khong-theo-tt-2]({{site.baseurl}}/../media/data/news/2022/hdsd-pisale/dinh-dang-ds-khong-theo-tt-2.jpg)
+
 _Kết quả_
 
+![dinh-dang-ds-khong-theo-tt-1]({{site.baseurl}}/../media/data/news/2022/hdsd-pisale/dinh-dang-ds-khong-theo-tt-1.jpg)
 
 ### (16) Dịch chuyển sang trái 1 khối văn bản
 
 Tính năng này sẽ dịch chuyển khối đoạn văn bản thụt vào bên trái 1 tab.
 
+![thut-le-trai]({{site.baseurl}}/../media/data/news/2022/hdsd-pisale/thut-le-trai.jpg)
+
 _Kết quả_
+
+![kq-thut-le-trai]({{site.baseurl}}/../media/data/news/2022/hdsd-pisale/kq-thut-le-trai.jpg)
 
 ### (17) Dịch chuyển sang phải 1 khối văn bản
 
 Tính năng này sẽ dịch chuyển khối văn bản thụt vào bên phải 1 tab, chỉ có tác dụng sau khi bạn đã dùng tính năng số (17).
 
+![thut-le-phai]({{site.baseurl}}/../media/data/news/2022/hdsd-pisale/thut-le-phai.jpg)
+
 _Kết quả_
 
+![kq-thut-le-phai]({{site.baseurl}}/../media/data/news/2022/hdsd-pisale/kq-thut-le-phai.jpg)
 
 ### (18) Trích dẫn văn bản
 
@@ -148,7 +190,11 @@ Thẻ blockquote là thẻ tag dùng để trích dẫn phần văn bản từ m
 
 Chức năng này được dùng khi các bạn thực hiện copy nội dung từ file MS Word, Google Docs, trực tiếp từ các website khác... khiến định dạng của bài viết không hiển thị theo phong cách chung của website.
 
+![xoa-dinh-dang]({{site.baseurl}}/../media/data/news/2022/hdsd-pisale/xoa-dinh-dang.jpg)
+
 _Kết quả_
+
+![kq-xoa-dinh-dang]({{site.baseurl}}/../media/data/news/2022/hdsd-pisale/kq-xoa-dinh-dang.jpg)
 
 ### (24) Fullscreen
 
