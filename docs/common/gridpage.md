@@ -2,6 +2,8 @@
 
 Longform là định dạng thể hiện kiểu tạp chí với đồ hoạ đẹp, hình ảnh chất lượng cao. Độc giả có thể tìm thấy chân dung nhân vật, các vấn đề thời sự, một cuộc điều tra hay các trải nghiệm cá nhân.
 
+## Thêm mới Long Form
+
 Tại đây bạn có thể quản lý các bài long form.
 
 **Bước 1** Tại màn hình quản trị, bạn chọn mục **Nội dung -> Long Form**
@@ -48,3 +50,17 @@ Hình minh họa mỗi tab được hiển thị lần lượt như sau:
 **Thứ tự** Đánh thứ tự hiển thị của bài thông tin (với số 0 là số lớn nhất được hiển thị đầu tiên)
 
 Sau khi hoàn tất các thao tác để thêm mới bài thông tin, đừng quên ấn nút **Lưu** nhé.
+
+##Xóa Long From
+
+### Xóa 1 bài Long Form
+
+Tích chọn bài bạn muốn xóa tại danh sách bài Long Form và chọn Xóa. Hệ thống xác nhận bạn có chắc chắn muốn xóa không với nội dung như sau Xóa bỏ là hành động sẽ không phục hồi lại được dữ liệu! Bạn có chắc chắn muốn thực hiện việc này? Bạn chọn OK
+
+### Xóa 1 cột nội dung trong bài Long Form
+
+Nhấn chọn icon thùng rác tại mỗi cột nội dung. Hệ thống xác nhận bạn có chắc chắn muốn xóa với nội dung như sau Delete column? Bạn chọn Ok
+
+## Sửa bài Long Form
+
+Nhấn chọn bài Long Form cần sửa, sau khi thay đổi thông tin tại các trường trong bài, bạn cần nhấn Lưu để cập nhật
