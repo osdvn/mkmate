@@ -4,9 +4,15 @@ Redirect 301 hay còn gọi là chuyển hướng URL là phương pháp chuyể
 
 **Bước 1**: Nhấn chọn **SEO** => nhấn chọn **Chuyển hướng URL**
 
+![chuyen-huong-url]({{site.baseurl}}/../media/data/news/2022/hdsd-pisale/chuyen-huong-url.jpg)
+
 **Bước 2**: Nhấn chọn **Thêm**
 
+![them]({{site.baseurl}}/../media/data/news/2022/hdsd-pisale/them.jpg)
+
 **Bước 3**: Trang tạo **301 Redirect URL** được mở ra, điền các thông tin chi tiết như sau.
+
+![301-redirect-1]({{site.baseurl}}/../media/data/news/2022/hdsd-pisale/301-redirect-1.jpg)
 
 Những thông tin cần cập nhật như sau:
 
