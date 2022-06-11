@@ -51,16 +51,16 @@ Hình minh họa mỗi tab được hiển thị lần lượt như sau:
 
 Sau khi hoàn tất các thao tác để thêm mới bài thông tin, đừng quên ấn nút **Lưu** nhé.
 
-##Xóa Long From
+## Xóa Long From
 
 ### Xóa 1 bài Long Form
 
-Tích chọn bài bạn muốn xóa tại danh sách bài Long Form và chọn Xóa. Hệ thống xác nhận bạn có chắc chắn muốn xóa không với nội dung như sau Xóa bỏ là hành động sẽ không phục hồi lại được dữ liệu! Bạn có chắc chắn muốn thực hiện việc này? Bạn chọn OK
+Tích chọn bài bạn muốn xóa tại danh sách bài Long Form và chọn Xóa. Hệ thống xác nhận bạn có chắc chắn muốn xóa không với nội dung như sau **Xóa bỏ là hành động sẽ không phục hồi lại được dữ liệu! Bạn có chắc chắn muốn thực hiện việc này?** Bạn chọn **OK**
 
 ### Xóa 1 cột nội dung trong bài Long Form
 
-Nhấn chọn icon thùng rác tại mỗi cột nội dung. Hệ thống xác nhận bạn có chắc chắn muốn xóa với nội dung như sau Delete column? Bạn chọn Ok
+Nhấn chọn icon thùng rác tại mỗi cột nội dung. Hệ thống xác nhận bạn có chắc chắn muốn xóa với nội dung như sau **Delete column?** Bạn chọn **Ok**
 
 ## Sửa bài Long Form
 
-Nhấn chọn bài Long Form cần sửa, sau khi thay đổi thông tin tại các trường trong bài, bạn cần nhấn Lưu để cập nhật
+Nhấn chọn bài Long Form cần sửa, sau khi thay đổi thông tin tại các trường trong bài, bạn cần nhấn **Lưu** để cập nhật
