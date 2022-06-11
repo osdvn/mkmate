@@ -1,10 +1,10 @@
 # Quản lý Facebook Like Box
 
-Facebook Page Plugin nhằm tiếp cận khách hàng bằng cách kết nối mạng xã hội vào website, giúp mang lại thêm nhiều lượng truy cập, tương tác với khách hàng và dễ dàng lan truyền thông tin từ người dùng hơn.
+Facebook Like Box nhằm tiếp cận khách hàng bằng cách kết nối mạng xã hội vào website, giúp mang lại thêm nhiều lượng truy cập, tương tác với khách hàng và dễ dàng lan truyền thông tin từ người dùng hơn.
 
 Hình minh họa được hiển thị như sau:
 
-Để cấu hình mô đun Facebook Page Plugin, bạn cần:
+Để cấu hình mô đun Facebook Like Box, bạn cần:
 
 **Bước 1** Tại màn hình quản trị, bạn chọn mục **Giao diện => Mô đun => Facebook Like Box**
 
